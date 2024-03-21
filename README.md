@@ -13,3 +13,7 @@ public enum EventType
     RemoveEvent = 3,  // Remove event
     MoveEvent = 4     // Move event
 }
+
+Som følge er over overblik over de forskellige events til testning af webhooks
+
+![image](https://github.com/DavidGabelgaard/Web_Hooks/assets/89967408/4a2c2c0d-cb20-4215-8a1d-fef0cbc85d67)
