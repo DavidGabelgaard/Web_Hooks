@@ -16,5 +16,5 @@ public enum EventType
 
 Som følge er over overblik over de forskellige events til testning af webhooks
 
-![image](https://github.com/DavidGabelgaard/Web_Hooks/assets/89967408/48fb6c85-83ac-4c19-bb4b-2756ce602659)
+![image](https://github.com/DavidGabelgaard/Web_Hooks/image.png)
 
